@@ -1,4 +1,5 @@
 # MovieRecommendationSystem
+-SPARSH BAJAJ
 
 For the first timers.
 Make sure you have the required libraries installed.
@@ -19,4 +20,4 @@ For Mac Users.
    c) pip3 install pyqt5
    d) pip3 install bs4
    e) pip3 install lxml
-3. Change the address of 'movie_dataset1' file in 'a.py' file.
+3. Change the address of 'movie_dataset1' file in 'index.py' file.
