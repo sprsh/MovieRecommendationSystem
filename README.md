@@ -11,7 +11,7 @@ For Windows Users.
    c) pip install pyqt5
    d) pip install bs4
    e) pip install lxml
-3. Change the address of 'movie_dataset1' file in 'a.py' file.
+3. Change the address of 'movie_dataset1' file in 'index.py' file.
 
 For Mac Users.
 1. Open Terminal
